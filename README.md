@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashank-kumar-rajput
-- 👀 I’m interested in Full Stack Role
+- 👀 I’m interested in SRE Role
 - 🌱 I’m currently working in innovaccer
 
 
